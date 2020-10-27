@@ -1,5 +1,4 @@
- 
-/* =============================================
+/* ============================================
 Base styles used by All Screens DO NOT EDIT BELOW
 ============================================= */
  
@@ -46,3 +45,24 @@ Base styles used by All Screens DO NOT EDIT ABOVE
 ============================================= */
  
 /* HTML and Body Styles */
+
+html{
+    background: rgb(246, 177, 177);
+    font-family: "Verdana, Geneva, sans-serif";
+    font-size: 12px;
+}
+
+body{
+    background-color: white;
+    max-width: 1024px;
+    margin: auto;
+    box-shadow: <color> 10px 10px 25px, <color> -10px 10px 25px;
+}
+
+
+
+header{
+    background: white;
+    width: 100%;
+    box-shadow: 51px 51px 51px;
+}
