@@ -82,7 +82,6 @@ img#logoImage {
 p{
     font-size: 1.2rem;
     line-height: 1.4rem;
-    max-width: 600px;
     margin: 15px;
 }
 
@@ -197,6 +196,7 @@ footer p{
     background-color: black;
     margin: none;
     padding: 10px 0px 10px 10px;
+    
 }
 
 nav#bottom ul{
